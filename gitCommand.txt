@@ -16,3 +16,14 @@ this command is used to move file
 ----------------------------------------------------------------
 6.cp -rf file directory
 the result of this command is to copy file to another file
+----------------------------------------------------------------
+7.git branch
+this command is used to observe the statu of current branch
+--------------------------------------------------------
+8.git branch branchName
+the new branch can be builed by useing the command
+--------------------------------------------------------------------
+9.git checkout branchName
+switching the current branch can use the command
+------------------------------------------------------------------
+
