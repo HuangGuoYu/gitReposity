@@ -1,1 +1,4 @@
-this is a test file ,this file already was modified by the branch of master 
+
+this is a test file ,this file already was modified by the branch of maste
+this is a test file ,this file modified by conflict branch 
+
