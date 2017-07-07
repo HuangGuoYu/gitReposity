@@ -1,0 +1,18 @@
+1.git init
+this command,"git init",is used to create reposity
+---------------------------------------------------------------
+2.touch fileName
+this command is used to create a file
+----------------------------------------------------------------
+3.git add fileName
+this command is used to add file to stage
+-----------------------------------------------------------------
+4.git commit -m "comment"
+this command is used to commit the file which is stored in stage zone to
+reposity
+-----------------------------------------------------------------
+5.rm 
+this command is used to move file
+----------------------------------------------------------------
+6.cp -rf file directory
+the result of this command is to copy file to another file
