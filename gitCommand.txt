@@ -26,4 +26,6 @@ the new branch can be builed by useing the command
 9.git checkout branchName
 switching the current branch can use the command
 ------------------------------------------------------------------
+10.git rm --cached -r file
+when we want to delete the record which was created by git,we can use the command to clear these cord,and then the command is also convenience we to add the filter condition of commited file
 
